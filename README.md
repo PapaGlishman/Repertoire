@@ -1,2 +1,2 @@
 # Repertoire
-Laravel Contact App
+Un Annuaire téléphonique fait avec Laravel
